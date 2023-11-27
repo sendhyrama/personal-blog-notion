@@ -63,4 +63,5 @@ onMounted(async () => {
 });
 </script>
 <style>
+@import "@/pages/blog/blog.style.css";
 </style>
